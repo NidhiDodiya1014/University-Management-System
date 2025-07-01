@@ -86,7 +86,7 @@ It models real-world college operations such as:
 
 > 📌 *Visualizing relationships between classes.*
 
-![UML Diagram](diagram.png)
+![UML Diagram](UML_Diagram.png)
 
 ---
 
