@@ -21,6 +21,13 @@ It models real-world college operations such as:
 - Persistent data storage via `CSV`/`TXT` files
 
 ---
+## ✅ Some visuals
+| ![](assets/1_n.png) | ![](assets/1_n_2.png) | ![](assets/2_n.png) |
+|:-:|:-:|:-:|
+| ![](assets/3_n.png) | ![](assets/3_n_2.png) | ![](assets/4_n.png) |
+| ![](assets/5_n.png) | ![](assets/6_n.png) | ![](assets/7_n.png) |
+| ![](assets/8_n.png) | ![](assets/11.png) | ![](assets/exportedFile.png) |
+---
 
 ## 🚀 **Key Features**
 
